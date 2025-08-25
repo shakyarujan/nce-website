@@ -1,0 +1,88 @@
+{
+  "company": {
+    "name": "Structural Design Solutions",
+    "tagline": "Engineering Excellence in Every Structure",
+    "description": "Professional civil and structural design services for commercial, residential, and industrial projects."
+  },
+  "hero": {
+    "title": "Building Tomorrow's Infrastructure Today",
+    "subtitle": "Expert civil and structural engineering solutions for projects of all scales",
+    "backgroundImage": "https://images.pexels.com/photos/1216589/pexels-photo-1216589.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop"
+  },
+  "about": {
+    "title": "About Us",
+    "content": "With over two decades of experience in civil and structural engineering, we provide comprehensive design solutions that combine technical expertise with innovative approaches. Our team of licensed engineers and designers is committed to delivering safe, efficient, and sustainable structures that meet the highest industry standards.",
+    "highlights": [
+      "20+ Years of Engineering Excellence",
+      "Licensed Professional Engineers",
+      "Sustainable Design Practices",
+      "Cutting-edge Technology Integration"
+    ]
+  },
+  "services": [
+    {
+      "title": "Commercial Building Design",
+      "description": "Complete structural design for office buildings, retail centers, and mixed-use developments.",
+      "icon": "🏢"
+    },
+    {
+      "title": "Residential Building Design", 
+      "description": "Custom home design, multi-family housing, and residential complex planning.",
+      "icon": "🏠"
+    },
+    {
+      "title": "Industrial Plant Design",
+      "description": "Specialized design for manufacturing facilities, warehouses, and industrial complexes.",
+      "icon": "🏭"
+    },
+    {
+      "title": "Subdivision Planning",
+      "description": "Comprehensive site planning, infrastructure design, and regulatory compliance.",
+      "icon": "🗺️"
+    },
+    {
+      "title": "Landscape Design",
+      "description": "Integration of natural elements with built environments for aesthetic and functional outcomes.",
+      "icon": "🌳"
+    },
+    {
+      "title": "Structural Analysis",
+      "description": "Advanced structural analysis using state-of-the-art modeling and simulation software.",
+      "icon": "📊"
+    }
+  ],
+  "projects": [
+    {
+      "title": "Metropolitan Office Complex",
+      "type": "Commercial",
+      "description": "15-story mixed-use development with retail and office spaces",
+      "image": "https://images.pexels.com/photos/325229/pexels-photo-325229.jpeg?auto=compress&cs=tinysrgb&w=600&h=400&fit=crop"
+    },
+    {
+      "title": "Riverside Residential Community",
+      "type": "Residential",
+      "description": "250-unit master-planned community with sustainable design features",
+      "image": "https://images.pexels.com/photos/1396122/pexels-photo-1396122.jpeg?auto=compress&cs=tinysrgb&w=600&h=400&fit=crop"
+    },
+    {
+      "title": "Advanced Manufacturing Facility",
+      "type": "Industrial",
+      "description": "State-of-the-art production facility with specialized structural requirements",
+      "image": "https://images.pexels.com/photos/1108101/pexels-photo-1108101.jpeg?auto=compress&cs=tinysrgb&w=600&h=400&fit=crop"
+    },
+    {
+      "title": "Greenfield Subdivision",
+      "type": "Planning",
+      "description": "Comprehensive infrastructure planning for 500-lot residential subdivision",
+      "image": "https://images.pexels.com/photos/1115804/pexels-photo-1115804.jpeg?auto=compress&cs=tinysrgb&w=600&h=400&fit=crop"
+    }
+  ],
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Ready to start your next project? Get in touch with our expert team.",
+    "email": "info@structuraldesignsolutions.com",
+    "phone": "+1 (555) 123-4567",
+    "address": "1234 Engineering Drive, Suite 500, Metropolitan City, MC 12345",
+    "hours": "Monday - Friday: 8:00 AM - 6:00 PM"
+  }
+}
