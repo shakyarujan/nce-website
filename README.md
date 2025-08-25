@@ -1,5 +1,3 @@
----
-
 ## About Northern Core Engineering 📌
 
 ** Northern Core Engineering is more than a consulting firm. **  
