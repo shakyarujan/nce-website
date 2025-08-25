@@ -1,6 +1,6 @@
 {
   "company": {
-    "name": "Structural Design Solutions",
+    "name": "NC Engineering",
     "tagline": "Engineering Excellence in Every Structure",
     "description": "Professional civil and structural design services for commercial, residential, and industrial projects."
   },
@@ -26,7 +26,7 @@
       "icon": "🏢"
     },
     {
-      "title": "Residential Building Design", 
+      "title": "Residential Building Design",
       "description": "Custom home design, multi-family housing, and residential complex planning.",
       "icon": "🏠"
     },
