@@ -1,3 +1,88 @@
+/* 1. Smooth page fade-in animation */
+body {
+    opacity: 0;
+    animation: fadeInBody 1s ease-in forwards;
+    background: linear-gradient(120deg, #e0eafc 0%, #cfdef3 100%);
+    min-height: 100vh;
+}
+
+@keyframes fadeInBody {
+    to {
+        opacity: 1;
+    }
+}
+
+/* 2. Header/title slide-down effect */
+#company-name {
+    opacity: 0;
+    transform: translateY(-40px);
+    animation: slideDownHeader 1s 0.3s cubic-bezier(.68, -0.55, .27, 1.55) forwards;
+}
+
+@keyframes slideDownHeader {
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* 3. Entrance animations for main sections/content */
+.section-header,
+.hero-content,
+.about-content,
+.services-grid,
+.projects-grid,
+.contact-content {
+    opacity: 0;
+    transform: translateY(30px);
+    animation: fadeUpSection 1s cubic-bezier(.68, -0.55, .27, 1.55) forwards;
+    animation-delay: 0.7s;
+}
+
+@keyframes fadeUpSection {
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* 4. Button hover effects */
+.cta-button,
+.nav-link {
+    transition: background 0.3s, color 0.3s, box-shadow 0.3s, transform 0.2s;
+}
+
+.cta-button:hover,
+.nav-link:hover {
+    background: #2d6cdf;
+    color: #fff;
+    box-shadow: 0 4px 16px rgba(45, 108, 223, 0.15);
+    transform: translateY(-2px) scale(1.05);
+}
+
+/* 5. Subtle animated gradient background */
+body::before {
+    content: "";
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: -1;
+    background: linear-gradient(120deg, #e0eafc 0%, #cfdef3 100%);
+    animation: gradientMove 8s ease-in-out infinite alternate;
+}
+
+@keyframes gradientMove {
+    0% {
+        background-position: 0% 50%;
+    }
+
+    100% {
+        background-position: 100% 50%;
+    }
+}
+
 /* Reset and Base Styles */
 * {
     margin: 0;
@@ -398,6 +483,7 @@ section {
         opacity: 0;
         transform: translateY(30px);
     }
+
     to {
         opacity: 1;
         transform: translateY(0);
@@ -420,12 +506,12 @@ section {
     .hero-title {
         font-size: 2.5rem;
     }
-    
+
     .about-content {
         grid-template-columns: 1fr;
         gap: 2rem;
     }
-    
+
     .services-grid {
         grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
     }
@@ -443,52 +529,52 @@ section {
         box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
         transition: left 0.3s ease;
     }
-    
+
     .nav-menu.active {
         left: 0;
     }
-    
+
     .hamburger {
         display: flex;
     }
-    
+
     .hamburger.active span:nth-child(1) {
         transform: rotate(45deg) translate(5px, 5px);
     }
-    
+
     .hamburger.active span:nth-child(2) {
         opacity: 0;
     }
-    
+
     .hamburger.active span:nth-child(3) {
         transform: rotate(-45deg) translate(7px, -6px);
     }
-    
+
     .hero {
         background-attachment: scroll;
     }
-    
+
     .hero-title {
         font-size: 2rem;
     }
-    
+
     .hero-subtitle {
         font-size: 1rem;
     }
-    
+
     .section-title {
         font-size: 2rem;
     }
-    
+
     section {
         padding: 60px 0;
     }
-    
+
     .services-grid,
     .projects-grid {
         grid-template-columns: 1fr;
     }
-    
+
     .contact-info {
         grid-template-columns: 1fr;
     }
@@ -498,19 +584,19 @@ section {
     .nav-brand h2 {
         font-size: 1.2rem;
     }
-    
+
     .hero-title {
         font-size: 1.75rem;
     }
-    
+
     .section-title {
         font-size: 1.75rem;
     }
-    
+
     .container {
         padding: 0 15px;
     }
-    
+
     .service-card,
     .contact-item {
         padding: 1.5rem;
