@@ -46,20 +46,6 @@ body {
     }
 }
 
-/* 4. Button hover effects */
-.cta-button,
-.nav-link {
-    transition: background 0.3s, color 0.3s, box-shadow 0.3s, transform 0.2s;
-}
-
-.cta-button:hover,
-.nav-link:hover {
-    background: #2d6cdf;
-    color: #fff;
-    box-shadow: 0 4px 16px rgba(45, 108, 223, 0.15);
-    transform: translateY(-2px) scale(1.05);
-}
-
 /* 5. Subtle animated gradient background */
 body::before {
     content: "";

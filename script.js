@@ -147,7 +147,7 @@ function initializeNavigation() {
             const targetSection = document.querySelector(targetId);
             
             if (targetSection) {
-                const offsetTop = targetSection.offsetTop - 80; // Account for fixed header
+                const offsetTop = targetSection.offsetTop - 90; // Account for fixed header
                 window.scrollTo({
                     top: offsetTop,
                     behavior: 'smooth'
@@ -166,7 +166,7 @@ function updateActiveNavLink() {
     const navLinks = document.querySelectorAll('.nav-link');
     
     let currentSection = '';
-    const scrollPosition = window.scrollY + 100; // Offset for header
+    const scrollPosition = window.scrollY + 460; // Offset for header
 
     sections.forEach(section => {
         const sectionTop = section.offsetTop;
