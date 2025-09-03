@@ -1,7 +1,7 @@
 {
   "company": {
-    "name": "NC Engineering",
-    "tagline": "Engineering Excellence in Every Structure",
+    "name": "Northern Core Engineering",
+    "tagline": "Efficience Economic Excellence",
     "description": "Professional civil and structural design services for commercial, residential, and industrial projects."
   },
   "hero": {
@@ -80,9 +80,9 @@
   "contact": {
     "title": "Contact Us",
     "subtitle": "Ready to start your next project? Get in touch with our expert team.",
-    "email": "info@structuraldesignsolutions.com",
-    "phone": "+1 (555) 123-4567",
-    "address": "1234 Engineering Drive, Suite 500, Metropolitan City, MC 12345",
-    "hours": "Monday - Friday: 8:00 AM - 6:00 PM"
+    "email": "info@ncengineering.com",
+    "phone": "+1 519-282-5962, +1 437-818-4730 ",
+    "address": "246 Hazel Street, Sudbury, Ontario",
+    "hours": "Monday - Friday: 8:30 AM - 5:00 PM"
   }
 }
