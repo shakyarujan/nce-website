@@ -71,7 +71,8 @@ function populateContent() {
     document.getElementById('contact-email').href = `mailto:${contentData.contact.email}`;
     document.getElementById('contact-phone').textContent = contentData.contact.phone;
     document.getElementById('contact-phone').href = `tel:${contentData.contact.phone.replace(/[^\d+]/g, '')}`;
-    document.getElementById('contact-address').innerHTML = contentData.contact.address.replace(', ', '<br>');
+    document.getElementById('contact-address').innerHTML = contentData.contact.address;
+    // document.getElementById('contact-address').innerHTML = contentData.contact.address.replace(', ', '<br>');
     document.getElementById('contact-hours').textContent = contentData.contact.hours;
 
     // Footer
