@@ -403,13 +403,13 @@ section {
 }
 
 .contact-content {
-    max-width: 800px;
+    max-width: 950px;
     margin: 0 auto;
 }
 
 .contact-info {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
     gap: 2rem;
 }
 
@@ -432,6 +432,14 @@ section {
 .contact-icon {
     font-size: 1.5rem;
     flex-shrink: 0;
+}
+
+.contact-details {
+    overflow: hidden;
+    /* white-space: nowrap; */
+    overflow: hidden;
+    text-overflow: ellipsis;
+    width: 400px;
 }
 
 .contact-details h4 {
