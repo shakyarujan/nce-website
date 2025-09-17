@@ -398,6 +398,10 @@ section {
 }
 
 /* Contact Section */
+.contact {
+    background: #f8fafc;
+}
+
 .contact-content {
     max-width: 800px;
     margin: 0 auto;

@@ -61,8 +61,8 @@ function populateContent() {
     // Services section
     populateServices();
 
-    // Projects section
-    populateProjects();
+    // Projects section -- after project listed
+    // populateProjects();
 
     // Contact section
     document.getElementById('contact-title').textContent = contentData.contact.title;
@@ -221,15 +221,15 @@ function showFallbackContent() {
     console.log('Loading fallback content...');
     
     // Fallback hero content
-    document.getElementById('hero-title').textContent = 'Professional Engineering Solutions';
-    document.getElementById('hero-subtitle').textContent = 'Expert civil and structural design services';
+    document.getElementById('hero-title').textContent = 'Efficient, Economical, and Excellent Engineering Services';
+    document.getElementById('hero-subtitle').textContent = 'Precision Engineering, Reliable Construction Solutions, Sustainable Designs';
     
     // Fallback about content
     document.getElementById('about-description').textContent = 'We provide comprehensive engineering solutions with decades of experience in the industry.';
     
     // Fallback contact
-    document.getElementById('contact-email').textContent = 'info@engineeringsolutions.com';
-    document.getElementById('contact-phone').textContent = '(555) 123-4567';
+    document.getElementById('contact-email').textContent = 'info@northerncoreengineering.ca';
+    document.getElementById('contact-phone').textContent = '+1 (519) 282-5962';
 }
 
 // Utility function to debounce scroll events
