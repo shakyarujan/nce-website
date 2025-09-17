@@ -1,55 +1,76 @@
 {
   "company": {
-    "name": "Northern Core Engineering",
-    "tagline": "Efficience Economic Excellence",
-    "description": "Professional civil and structural design services for commercial, residential, and industrial projects."
+    "name": "Northern Core Engineering Limited",
+    "tagline": "Efficiency • Economy • Excellence",
+    "description": "At Northern Core Engineering Ltd., we deliver innovative and reliable civil and structural engineering solutions. From subdivisions, stormwater, and lot grading to structural design, renovations, and permit drawings, we ensure projects are efficient, economical, and excellent. Our expertise in project management, inspections, contract documentation, and MEP coordination makes us a trusted partner for builders, developers, and property owners seeking quality and cost-effective results."
   },
   "hero": {
-    "title": "Building Tomorrow's Infrastructure Today",
-    "subtitle": "Expert civil and structural engineering solutions for projects of all scales",
+    "title": "Efficient, Economical, and Excellent Engineering Services",
+    "subtitle": "Precision Engineering, Reliable Construction Solutions, Sustainable Designs",
     "backgroundImage": "https://images.pexels.com/photos/1216589/pexels-photo-1216589.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop"
   },
   "about": {
     "title": "About Us",
-    "content": "With over two decades of experience in civil and structural engineering, we provide comprehensive design solutions that combine technical expertise with innovative approaches. Our team of licensed engineers and designers is committed to delivering safe, efficient, and sustainable structures that meet the highest industry standards.",
+    "content": "Northern Core Engineering Ltd. provides innovative civil and structural engineering solutions with a focus on precision, efficiency, and reliability. We specialize in structural design, steel connections, civil planning, subdivision design, lot grading, stormwater management, site services, and construction supervision for residential, commercial, and industrial projects across Canada. Combining advanced engineering practices with practical solutions, we ensure projects are delivered on time, on budget, and in full compliance with safety and regulatory standards, creating resilient, efficient, and sustainable structures.",
     "highlights": [
-      "20+ Years of Engineering Excellence",
-      "Licensed Professional Engineers",
-      "Sustainable Design Practices",
-      "Cutting-edge Technology Integration"
+      "10+ Years of Engineering Experience",
+      "Licensed Professional Engineer",
+      "Civil & structural solutions",
+      "Project management, construction supervision, & quality assurance"
     ]
   },
   "services": [
     {
-      "title": "Commercial Building Design",
-      "description": "Complete structural design for office buildings, retail centers, and mixed-use developments.",
+      "title": "Subdivisions & Lot Grading",
+      "description": "Comprehensive subdivision planning and lot grading services that ensure proper drainage, functional layouts, and compliance with municipal standards.",
+      "icon": "🏡"
+    },
+    {
+      "title": "Stormwater Management & Site Services",
+      "description": "Comprehensive design and implementation of stormwater systems and site services, including storm and sanitary sewers, watermains, and utility integration, ensuring proper drainage, functionality, and regulatory compliance.",
+      "icon": "🏞️"
+    },
+    {
+      "title": "Building Permit Drawings & Code Compliance",
+      "description": "Preparation of detailed building permit drawings and design documentation, ensuring full compliance with local building codes, regulations, and approval requirements.",
       "icon": "🏢"
     },
     {
-      "title": "Residential Building Design",
-      "description": "Custom home design, multi-family housing, and residential complex planning.",
+      "title": "Project Management & Supervision",
+      "description": "Professional project management and on-site supervision services to ensure projects are delivered on time, within budget, and meet quality and safety standards.",
+      "icon": "📊"
+    },
+    {
+      "title": "Steel Connection Design",
+      "description": "Expert design and review of steel connections, ensuring structural integrity, safety, and compliance with industry standards.",
+      "icon": "🔩"
+    },
+    {
+      "title": "Structural Design",
+      "description": "Advanced structural analysis and design of steel, wood, and concrete Structures using state-of-the-art modeling and simulation software.",
+      "icon": "🏗️"
+    },
+    {
+      "title": "Renovation & Retrofit",
+      "description": "Design and implementation of building renovations and retrofits to enhance structural performance and functionality.",
       "icon": "🏠"
     },
     {
-      "title": "Industrial Plant Design",
-      "description": "Specialized design for manufacturing facilities, warehouses, and industrial complexes.",
-      "icon": "🏭"
+      "title": "Inspections & Reports",
+      "description": "Structural inspections and detailed reporting to assess safety, compliance, and performance of buildings and infrastructure.",
+      "icon": "📋"
     },
     {
-      "title": "Subdivision Planning",
-      "description": "Comprehensive site planning, infrastructure design, and regulatory compliance.",
-      "icon": "🗺️"
+      "title": "Tender & Contract Documentation",
+      "description": "Preparation of estimate, tender, and contract documents to support competitive bidding, clear scope definition, and smooth project execution.",
+      "icon": "✍️"
     },
     {
-      "title": "Landscape Design",
-      "description": "Integration of natural elements with built environments for aesthetic and functional outcomes.",
-      "icon": "🌳"
-    },
-    {
-      "title": "Structural Analysis",
-      "description": "Advanced structural analysis using state-of-the-art modeling and simulation software.",
-      "icon": "📊"
+      "title": "MEP Coordination",
+      "description": "Coordination of mechanical, electrical, and plumbing systems to ensure seamless integration, functionality, and compliance.",
+      "icon": "⚙️💡🚰"
     }
+
   ],
   "projects": [
     {
@@ -80,9 +101,9 @@
   "contact": {
     "title": "Contact Us",
     "subtitle": "Ready to start your next project? Get in touch with our expert team.",
-    "email": "info@northerncoreengineering.com",
-    "phone": "+1 519-282-5962, +1 437-818-4730 ",
-    "address": "246 Hazel Street, Sudbury, Ontario",
-    "hours": "Monday - Friday: 8:30 AM - 5:00 PM"
+    "email": "info@northerncoreengineering.ca",
+    "phone": "+1 (519) 282-5962, +1 (437) 818-4730",
+    "address": "2-256 Hazel Street, Sudbury, Ontario, P3C 1J2",
+    "hours": "Monday - Friday: 7:00 AM - 7:00 PM"
   }
 }
