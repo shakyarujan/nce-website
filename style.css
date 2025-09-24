@@ -573,9 +573,9 @@ section {
         grid-template-columns: 1fr;
     }
 
-    .contact-info {
+    /* .contact-info {
         grid-template-columns: 1fr;
-    }
+    } */
 }
 
 @media (max-width: 480px) {
