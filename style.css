@@ -597,6 +597,6 @@ section {
 
     .service-card,
     .contact-item {
-        padding: 1.5rem;
+        padding-top: 1.5rem 0.2rem;
     }
 }
