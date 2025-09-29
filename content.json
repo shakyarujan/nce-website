@@ -21,54 +21,34 @@
   },
   "services": [
     {
-      "title": "Subdivisions & Lot Grading",
-      "description": "Comprehensive subdivision planning and lot grading services that ensure proper drainage, functional layouts, and compliance with municipal standards.",
-      "icon": "🏡"
-    },
-    {
-      "title": "Stormwater Management & Site Services",
-      "description": "Comprehensive design and implementation of stormwater systems and site services, including storm and sanitary sewers, watermains, and utility integration, ensuring proper drainage, functionality, and regulatory compliance.",
-      "icon": "🏞️"
-    },
-    {
-      "title": "Building Permit Drawings & Code Compliance",
-      "description": "Preparation of detailed building permit drawings and design documentation, ensuring full compliance with local building codes, regulations, and approval requirements.",
+      "title": "Commercial Building Design",
+      "description": "Complete structural design for office buildings, retail centers, and mixed-use developments.",
       "icon": "🏢"
     },
     {
-      "title": "Project Management & Supervision",
-      "description": "Professional project management and on-site supervision services to ensure projects are delivered on time, within budget, and meet quality and safety standards.",
-      "icon": "📊"
-    },
-    {
-      "title": "Steel Connection Design",
-      "description": "Expert design and review of steel connections, ensuring structural integrity, safety, and compliance with industry standards.",
-      "icon": "🔩"
-    },
-    {
-      "title": "Structural Design",
-      "description": "Advanced structural analysis and design of steel, wood, and concrete Structures using state-of-the-art modeling and simulation software.",
-      "icon": "🏗️"
-    },
-    {
-      "title": "Renovation & Retrofit",
-      "description": "Design and implementation of building renovations and retrofits to enhance structural performance and functionality.",
+      "title": "Residential Building Design",
+      "description": "Custom home design, multi-family housing, and residential complex planning.",
       "icon": "🏠"
     },
     {
-      "title": "Inspections & Reports",
-      "description": "Structural inspections and detailed reporting to assess safety, compliance, and performance of buildings and infrastructure.",
-      "icon": "📋"
+      "title": "Industrial Plant Design",
+      "description": "Specialized design for manufacturing facilities, warehouses, and industrial complexes.",
+      "icon": "🏭"
     },
     {
-      "title": "Tender & Contract Documentation",
-      "description": "Preparation of estimate, tender, and contract documents to support competitive bidding, clear scope definition, and smooth project execution.",
-      "icon": "✍️"
+      "title": "Subdivision Planning",
+      "description": "Comprehensive site planning, infrastructure design, and regulatory compliance.",
+      "icon": "🗺️"
     },
     {
-      "title": "MEP Coordination",
-      "description": "Coordination of mechanical, electrical, and plumbing systems to ensure seamless integration, functionality, and compliance.",
-      "icon": "⚙️💡🚰"
+      "title": "Landscape Design",
+      "description": "Integration of natural elements with built environments for aesthetic and functional outcomes.",
+      "icon": "🌳"
+    },
+    {
+      "title": "Structural Analysis",
+      "description": "Advanced structural analysis using state-of-the-art modeling and simulation software.",
+      "icon": "📊"
     }
   ],
   "projects": [
