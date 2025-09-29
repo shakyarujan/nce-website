@@ -1,22 +1,22 @@
 {
   "company": {
-    "name": "Northern Core Engineering Limited",
-    "tagline": "Efficiency • Economy • Excellence",
-    "description": "At Northern Core Engineering Ltd., we deliver innovative and reliable civil and structural engineering solutions. From subdivisions, stormwater, and lot grading to structural design, renovations, and permit drawings, we ensure projects are efficient, economical, and excellent. Our expertise in project management, inspections, contract documentation, and MEP coordination makes us a trusted partner for builders, developers, and property owners seeking quality and cost-effective results."
+    "name": "Northern Core Engineering",
+    "tagline": "Efficience Economic Excellence",
+    "description": "Professional civil and structural design services for commercial, residential, and industrial projects."
   },
   "hero": {
-    "title": "Efficient, Economical, and Excellent Engineering Services",
-    "subtitle": "Precision Engineering, Reliable Construction Solutions, Sustainable Designs",
+    "title": "Building Tomorrow's Infrastructure Today",
+    "subtitle": "Expert civil and structural engineering solutions for projects of all scales",
     "backgroundImage": "./public/assets/banner-img.png"
   },
   "about": {
     "title": "About Us",
-    "content": "Northern Core Engineering Ltd. provides innovative civil and structural engineering solutions with a focus on precision, efficiency, and reliability. We specialize in structural design, steel connections, civil planning, subdivision design, lot grading, stormwater management, site services, and construction supervision for residential, commercial, and industrial projects across Canada. Combining advanced engineering practices with practical solutions, we ensure projects are delivered on time, on budget, and in full compliance with safety and regulatory standards, creating resilient, efficient, and sustainable structures.",
+    "content": "With over two decades of experience in civil and structural engineering, we provide comprehensive design solutions that combine technical expertise with innovative approaches. Our team of licensed engineers and designers is committed to delivering safe, efficient, and sustainable structures that meet the highest industry standards.",
     "highlights": [
-      "10+ Years of Engineering Experience",
-      "Licensed Professional Engineer",
-      "Civil & structural solutions",
-      "Project management, construction supervision, & quality assurance"
+      "20+ Years of Engineering Excellence",
+      "Licensed Professional Engineers",
+      "Sustainable Design Practices",
+      "Cutting-edge Technology Integration"
     ]
   },
   "services": [
@@ -101,8 +101,8 @@
     "title": "Contact Us",
     "subtitle": "Ready to start your next project? Get in touch with our expert team.",
     "email": "info@northerncoreengineering.ca, sujan.shakya@northerncoreengineering.ca, sujit.jaisee@northerncoreengineering.ca",
-    "phone": "+1 (519) 282-5962, +1 (437) 818-4730",
-    "address": "2-256 Hazel Street, Sudbury, Ontario, P3C 1J2",
-    "hours": "Monday - Friday: 7:00 AM - 7:00 PM"
+    "phone": "+1 519-282-5962, +1 437-818-4730 ",
+    "address": "246 Hazel street, Sudbury, Ontario",
+    "hours": "Monday - Friday: 8:30 AM - 5:00 PM"
   }
 }
