@@ -5,7 +5,7 @@
     "description": "At Northern Core Engineering Ltd., we deliver innovative and reliable civil and structural engineering solutions. From subdivisions, stormwater, and lot grading to structural design, renovations, and permit drawings, we ensure projects are efficient, economical, and excellent. Our expertise in project management, inspections, contract documentation, and MEP coordination makes us a trusted partner for builders, developers, and property owners seeking quality and cost-effective results."
   },
   "hero": {
-    "title": "Delivering Promises, On Time",
+    "title": "Delivering Promises on Time",
     "subtitle": "Precision Engineering, Reliable Construction Solutions, Sustainable Designs",
     "backgroundImage": "./public/assets/banner-img.png"
   },
@@ -70,9 +70,8 @@
       "description": "Coordination of mechanical, electrical, and plumbing systems to ensure seamless integration, functionality, and compliance.",
       "icon": "⚙️💡🚰"
     }
-
   ],
-    "contact": {
+  "contact": {
     "title": "Contact Us",
     "subtitle": "Ready to start your next project? Get in touch with our expert team.",
     "email": "info@northerncoreengineering.ca, sujit.jaisee@northerncoreengineering.ca, sujan.shakya@northerncoreengineering.ca",
