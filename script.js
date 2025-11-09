@@ -69,8 +69,11 @@ function populateContent() {
     document.getElementById('contact-subtitle').textContent = contentData.contact.subtitle;
     document.getElementById('contact-email').textContent = contentData.contact.email;
     document.getElementById('contact-email').href = `mailto:${contentData.contact.email}`;
-    document.getElementById('contact-phone').textContent = contentData.contact.phone;
-    document.getElementById('contact-phone').href = `tel:${contentData.contact.phone.replace(/[^\d+]/g, '')}`;
+    document.getElementById('contact-phone1').textContent = contentData.contact.phone1;
+    document.getElementById('contact-phone1').href = `tel:${contentData.contact.phone1}`;
+    // document.getElementById('contact-phone').href = `tel:${contentData.contact.phone.replace(/[^\d+]/g, '')}`;
+    document.getElementById('contact-phone2').textContent = contentData.contact.phone2;
+    document.getElementById('contact-phone2').href = `tel:${contentData.contact.phone2}`;
     document.getElementById('contact-address').innerHTML = contentData.contact.address;
     // document.getElementById('contact-address').innerHTML = contentData.contact.address.replace(', ', '<br>');
     document.getElementById('contact-hours').textContent = contentData.contact.hours;
