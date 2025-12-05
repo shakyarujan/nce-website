@@ -1,0 +1,10 @@
+{
+    "name": "Northern Core Engineering",
+    "short_name": "NCE",
+    "description": "Northern Core Engineering – Mechanical engineering consulting and design services.",
+    "start_url": "/",
+    "scope": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#003366"
+}
